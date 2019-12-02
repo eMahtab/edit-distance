@@ -9,7 +9,9 @@ You have the following 3 operations permitted on a word:
 
 e.g.
 Input: word1 = "horse", word2 = "ros"
+
 Output: 3
+
 Explanation: 
 horse -> rorse (replace 'h' with 'r')
 rorse -> rose (remove 'r')
