@@ -20,6 +20,9 @@ rorse -> rose (remove 'r')
 
 rose -> ros (remove 'e')
 
+## Solution
+We can solve this problem using Dynamic Programming
+
 If string1 is empty, then it will take as many insertion operations as the length of the second string string2, to make string1 equal to string2.
 
 
