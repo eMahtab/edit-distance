@@ -1,1 +1,1 @@
-# Edit Distance
+# Edit Distance - Levenshtein distance
