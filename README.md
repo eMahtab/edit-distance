@@ -28,6 +28,7 @@ We start filling the dpTable, row by row, and we fill all the columns in a singl
 
 If string1 is empty, then it will take as many insertion operations as the length of the second string (string2), to make string1 equal to string2. So the values in first row, will increment by 1 at each cell because the length of second string (string2) is increasing by 1 with each column. 
 
+Similarly If string2 is empty, then it will take as many deletion operations as the length of the first string (string1), to make string1 equal to string2. So the values in first column, will increment by 1 at each cell because the length of first string (string1) is increasing by 1 with each column. 
 
 ```java
 public class App {
